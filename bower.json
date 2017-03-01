@@ -1,6 +1,6 @@
 {
-  "name": "HTML Starter Kit",
-  "description": "<h1>HTML website build with Gulp</h1>",
+  "name": "html-starterkit-gulp",
+  "description": "HTML website build with Gulp.",
   "main": "gulpfile.babel.js",
   "authors": [
     "Blockshot"

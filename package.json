@@ -1,7 +1,7 @@
 {
-  "name": "HTML Starter Kit",
+  "name": "html-starterkit-gulp",
   "version": "1.0.0",
-  "description": "<h1>HTML website build with Gulp</h1>",
+  "description": "HTML website build with Gulp.",
   "main": "gulpfile.babel.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
