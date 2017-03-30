@@ -4,6 +4,6 @@
  * @since 1.0.0
  * @author Blockshot
  */
-'use strickt';
+'use strict';
 
 console.log('main.js');
